@@ -12,5 +12,3 @@ def line(katz_deli)
  end
 end
 
-def take_a_number(katz_deli, person)
-  current_line <<
