@@ -2,6 +2,6 @@
 
 def line(array)
   if array == 0
-  puts "The line is currently empty."
+  puts "The #{array} is currently empty."
 end
 end
